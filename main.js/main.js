@@ -33,7 +33,7 @@ function iniciarJogo(){
 
     snake.pop();
 
-    left newHead = {
+    let newHead = {
         x: snakeX,
         y: snakeY
     }
